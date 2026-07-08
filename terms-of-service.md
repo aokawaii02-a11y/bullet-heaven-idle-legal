@@ -26,7 +26,7 @@ We may update, modify, or discontinue the App (or any part of it) at any time. W
 8. Termination
 We may suspend or terminate your access to the App at any time if you violate these Terms. You may stop using the App at any time by uninstalling it.
 9. Governing Law
-These Terms shall be governed by the laws of [Jurisdiction], without regard to its conflict-of-law principles, unless otherwise required by applicable local consumer protection law.
+These Terms shall be governed by the laws of Japan,The court with jurisdiction is the "大田原裁判所", without regard to its conflict-of-law principles, unless otherwise required by applicable local consumer protection law.
 10. Contact Us
 If you have any questions about these Terms, please contact:
 IiAokawa
