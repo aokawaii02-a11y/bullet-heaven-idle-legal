@@ -1,6 +1,7 @@
 # Privacy Policy
 
-**Effective Date:** 2026-09-05
+**Effective Date:** 2026-07-08
+**Last Update:** 2026-09-05
 **App Name:** Bullet Heaven Idle
 **Developer:** IiAokawa
 **Contact:** iiaokawa5@gmail.com
@@ -26,6 +27,7 @@ The App may display rewarded video advertisements (for example, to grant a bonus
 * Device and app information (device model, OS version, language, app version)
 * IP address and approximate (coarse) location derived from it
 * Ad interaction data (impressions, clicks, completion)
+* Performance and diagnostic information (app launch time, hang rate, energy usage)
 
 This information is collected and processed by the advertising provider under **its own** privacy policy, not this one. We do not control, and are not responsible for, the data practices of these third parties. We encourage you to review their policies directly:
 
@@ -67,5 +69,5 @@ We may update this Privacy Policy from time to time (for example, if we add a ne
 
 If you have any questions about this Privacy Policy, please contact:
 
-**Iiaokawa
+**IiAokawa
 iiaokawa5@gmail.com**
