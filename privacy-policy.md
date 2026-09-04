@@ -63,7 +63,7 @@ Because all game data is stored locally on your device, you are always in contro
 
 ## 7\. Changes to This Policy
 
-We may update this Privacy Policy from time to time (for example, if we add a new feature or finalize our advertising SDK integration). Changes will be reflected by updating the "Effective Date" above. We encourage you to review this page periodically.
+We may update this Privacy Policy from time to time (for example, if we add a new feature or finalize our advertising SDK integration). Changes will be reflected by updating the "Last Update" above. We encourage you to review this page periodically.
 
 ## 8\. Contact Us
 
