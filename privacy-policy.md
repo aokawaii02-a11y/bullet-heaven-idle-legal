@@ -30,7 +30,6 @@ The App may display rewarded video advertisements (for example, to grant a bonus
 This information is collected and processed by the advertising provider under **its own** privacy policy, not this one. We do not control, and are not responsible for, the data practices of these third parties. We encourage you to review their policies directly:
 
 * Google AdMob / Google Privacy Policy: https://policies.google.com/privacy
-* Unity Ads / Unity Privacy Policy: https://unity.com/legal/privacy-policy
 
 Ad viewing in this App is always **optional** — advertisements are only shown when you choose to watch one in exchange for an in-game reward.
 
