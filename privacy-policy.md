@@ -33,7 +33,7 @@ This information is collected and processed by the advertising provider under **
 
 Ad viewing in this App is always **optional** — advertisements are only shown when you choose to watch one in exchange for an in-game reward.
 
-# Your Advertising Choices
+### Your Advertising Choices
 
 You can reset or delete your Android advertising ID at any time from your
 device settings (Settings → Google → Ads). You may also opt out of
