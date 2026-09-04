@@ -33,6 +33,17 @@ This information is collected and processed by the advertising provider under **
 
 Ad viewing in this App is always **optional** — advertisements are only shown when you choose to watch one in exchange for an in-game reward.
 
+# Your Advertising Choices
+
+You can reset or delete your Android advertising ID at any time from your
+device settings (Settings → Google → Ads). You may also opt out of
+personalized advertising from the same screen. Doing so does not stop ads
+from appearing, but limits the use of your data to personalize them.
+
+For more information about how Google handles data collected through
+advertising, please see Google's Privacy Policy:
+https://policies.google.com/privacy
+
 ## 4\. Children's Privacy
 
 The App is not directed at children under the age of 13, and we do not knowingly collect personal information from children. If you believe a child has provided us with personal information, please contact us using the details above so we can address it.
