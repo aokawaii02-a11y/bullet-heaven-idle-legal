@@ -1,6 +1,6 @@
 # Privacy Policy
 
-**Effective Date:** 2026-07-08
+**Effective Date:** 2026-09-05
 **App Name:** Bullet Heaven Idle
 **Developer:** IiAokawa
 **Contact:** iiaokawa5@gmail.com
@@ -20,7 +20,7 @@ All game progress — currency (Bris / Glowing Bris), stage progress, unlocked b
 
 ## 3\. Third-Party Advertising
 
-The App may display rewarded video advertisements (for example, to grant a bonus item) through a third-party advertising network such as **Google AdMob** and/or **Unity Ads**. When an ad is shown, the advertising provider may automatically collect certain technical information to serve, measure, and prevent fraud in advertising, which may include:
+The App may display rewarded video advertisements (for example, to grant a bonus item) through a third-party advertising network such as **Google AdMob**. When an ad is shown, the advertising provider may automatically collect certain technical information to serve, measure, and prevent fraud in advertising, which may include:
 
 * Advertising identifiers (e.g., Google Advertising ID / AAID)
 * Device and app information (device model, OS version, language, app version)
